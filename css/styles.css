@@ -1,0 +1,144 @@
+/* 
+    --Typography
+    -font size
+    12 / 16 / 45 / / 80 
+    
+*/
+header{
+  background-color: #f52847;
+  padding: 2% 15%;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 4.5rem;
+  line-height: 1.5;
+  color: #fff;
+}
+h2{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family: "Montserrat";
+}
+h3 {
+  font-family: "Montserrat";
+}
+p {
+  color: #8f8f8f;
+  font-size: 1.6rem;
+}
+
+html {
+  font-family: "Ubuntu", sans-serif;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* Navigation bar */
+.navbar {
+  padding-bottom: 4.5rem;
+}
+.navbar-brand {
+  font-weight: 400;
+  font-size: 2.5rem;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.8rem;
+}
+
+/* buttons */
+.download-btn {
+  margin: 5% 3% 5% 0;
+}
+
+/* title image */
+
+#title {
+  background-color: #f52847;
+  position: relative;
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+#features {
+  padding: 7% 15%;
+  background-color: #f7f0f0;
+  position: relative;
+}
+.feature-box {
+  text-align: center;
+  padding: 0 5%;
+}
+.feature-icon {
+  color: #f87361;
+  margin-bottom: 1rem;
+}
+.feature-icon:hover {
+  color: #f52847;
+}
+/* Testemonial */
+#testimonials{
+  text-align: center;
+  background-color: #f35743;
+  color: #fff;
+}
+.carousel-item{
+  padding: 7% 15%;
+
+}
+.testimonial-image{
+  width: 10%;
+  margin: 20px;
+  border-radius: 100%;
+}
+#press{
+  background-color: #f8ddd9;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-image{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing */
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-btn{
+  width: 100%;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+#cta{
+  text-align: center;
+}
+.cta-container{
+  padding: 7% 25%;
+  background-color: #f52847;
+}
+.cta-heading{
+  font-size: 4rem;
+  color: #f7f0f0;
+}
+.cta-btn{
+  margin-top: 2%;
+  margin-left: 20px;
+}
+#footer{
+  text-align: center;
+  margin: 5% 0;
+}
+.footer-icon{
+  margin: 0.6% 1%;
+}
